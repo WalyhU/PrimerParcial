@@ -1,2 +1,2 @@
-![Primer Ejercicio]("https://imgur.com/PYcGJPn.png")
-![Segundo Ejercicio]("https://imgur.com/rhJngaW.png")
+![Primer Ejercicio]("https://i.imgur.com/PYcGJPn.png")
+![Segundo Ejercicio]("https://i.imgur.com/rhJngaW.png")
