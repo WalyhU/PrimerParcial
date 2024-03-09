@@ -11,7 +11,7 @@ public class Main {
 
         Consumer consumer = new Consumer(producer.getPedidos());
 
-        System.out.println("Pedidos del productor: ");
+        System.out.println("Pedidos del consumidor: ");
         for (Object pedido : consumer.getPedidos()) {
             System.out.println(pedido);
         }
